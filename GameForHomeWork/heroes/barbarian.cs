@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace GameForHomeWork.heroes
 {
-    internal class barbarian : character
+    public class barbarian : character
     {
-        public override int shield { get; set; } = 15;
-        public override int attack { get; set; } = 5;
+        public override int shield { get; set; } = 5;
+        public override int attack { get; set; } = 15;
+
+        public virtual void AddSuperPower(SuperPowerInterface powerAdd, int power)
+        {
+            powerAdd.AddSuperPower(this, power);
+        }
     }
 }
