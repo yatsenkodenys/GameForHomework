@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GameForHomeWork
+namespace GameForHomeWork.SuperPowers
 {
-    public static class SuperPoverGenerator
+    public class Attack
     {
-        public static int spg()
+        void AddSuperPower(character player, int power)
         {
-            return new Random(5,10);
+            player.attack += power;
         }
     }
 }

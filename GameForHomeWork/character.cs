@@ -11,5 +11,10 @@ namespace GameForHomeWork
         public int hp { get; set;} = 100;
         public virtual int shield { get; set; } = 0;
         public virtual int attack { get; set; } = 0;
+
+        public virtual void AddSuperPower(SuperPowerInterface powerAdd, int power)
+        {
+            powerAdd.AddSuperPower(this, power);
+        }
     }
 }

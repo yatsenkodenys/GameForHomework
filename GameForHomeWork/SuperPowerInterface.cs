@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace GameForHomeWork
 {
-    public static class SuperPoverGenerator
+    public interface class SuperPowerInterface
     {
-        public static int spg()
-        {
-            return new Random(5,10);
-        }
+        void AddSuperPower(character player, int power);
     }
 }
