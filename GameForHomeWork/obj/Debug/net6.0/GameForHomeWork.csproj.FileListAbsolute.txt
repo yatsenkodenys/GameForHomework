@@ -1,0 +1,15 @@
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\obj\Debug\net6.0\GameForHomeWork.csproj.AssemblyReference.cache
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\obj\Debug\net6.0\GameForHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\obj\Debug\net6.0\GameForHomeWork.AssemblyInfoInputs.cache
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\obj\Debug\net6.0\GameForHomeWork.AssemblyInfo.cs
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\obj\Debug\net6.0\GameForHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\bin\Debug\net6.0\GameForHomeWork.exe
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\bin\Debug\net6.0\GameForHomeWork.deps.json
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\bin\Debug\net6.0\GameForHomeWork.runtimeconfig.json
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\bin\Debug\net6.0\GameForHomeWork.dll
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\bin\Debug\net6.0\GameForHomeWork.pdb
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\obj\Debug\net6.0\GameForHomeWork.dll
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\obj\Debug\net6.0\refint\GameForHomeWork.dll
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\obj\Debug\net6.0\GameForHomeWork.pdb
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\obj\Debug\net6.0\GameForHomeWork.genruntimeconfig.cache
+C:\Users\v\source\repos\GameForHomeWork\GameForHomeWork\obj\Debug\net6.0\ref\GameForHomeWork.dll
