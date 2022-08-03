@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace GameForHomeWork
 {
-    public static class SuperPoverGenerator
+    public static class SuperPowerGenerator
     {
         public static int spg()
         {
-            return new Random(5,10);
+            return new Random().Next(5,10);
         }
     }
 }

@@ -11,4 +11,5 @@ namespace GameForHomeWork.heroes
         public override int shield { get; set; } = 10;
         public override int attack { get; set; } = 10;
     }
+    
 }

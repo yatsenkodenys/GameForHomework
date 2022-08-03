@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using GameForHomeWork.heroes;
 
 namespace GameForHomeWork.SuperPowers
 {
@@ -12,7 +13,6 @@ namespace GameForHomeWork.SuperPowers
         {
             player.hp += power;
         }
-
     }
 }
-}
+
