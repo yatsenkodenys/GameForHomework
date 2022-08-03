@@ -11,9 +11,7 @@ namespace GameForHomeWork.heroes
         public override int shield { get; set; } = 8;
         public override int attack { get; set; } = 12;
 
-        public virtual void AddSuperPower(SuperPowerInterface powerAdd, int power)
-        {
-            powerAdd.AddSuperPower(this, power);
-        }
+        
+
     }
 }
